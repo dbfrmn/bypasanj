@@ -1,8 +1,6 @@
-{
-  "username": "frmnz",
-  "pasword": "maklo"
-},
-{
-  "username": "apkbug",
-  "pasword": "xmdapk"
-}
+[
+  {
+    "username": "frmnz",
+    "pasword": "maklo"
+  }
+]
